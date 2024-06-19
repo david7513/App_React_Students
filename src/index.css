@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+  color: purple;
+  border: solid 3px black;
+}
+
+h2 {
+  color: green;
+  font-style: italic;
+}
+
+h3 {
+  color: purple
+}
+
+.image-container img {
+  max-width: 50%;
+  margin-left: 700px;
+  height: auto;
+}
+
+li {
+  color: purple
+}
+
